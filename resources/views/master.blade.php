@@ -12,7 +12,7 @@
     <script src="{{ asset('js/app.js') }}"></script>
 </head>
 <body>
-    <div class="p-20 bg-slate-700 text-white text-center">TESTING</div>
+    <div class="p-20 bg-slate-700 text-white text-center">THIS IS CVGENs</div>
 </body>
 <script>
 
